@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="et_nik" type="id" />
+    <item name="et_password" type="id" />
+    <item name="btn_login" type="id" />
+    <item name="imageSelfie" type="id" />
+    <item name="inputNamaLayout" type="id" />
+    <item name="imageView" type="id" />
+    <item name="btnlogout" type="id" />
+    <item name="btnMasuk" type="id" />
+    <item name="nameTextView" type="id" />
+    <item name="dateTimeTextView" type="id" />
+    <item name="locationTextView" type="id" />
+    <item name="noteTextView" type="id" />
+    <item name="rvHistory" type="id" />
+    <item name="tvNotFound" type="id" />
+    <item name="emailEditText" type="id" />
+    <item name="resetButton" type="id" />
+    <item name="itemText" type="id" />
+    <item type="id" name="bottom_home" />
+    <item type="id" name="bottom_history" />
+    <item type="id" name="bottom_document" />
+    <item type="id" name="bottom_profile" />
+    <item name="textview1" type="id" />
+    <item name="button_id" type="id" />
+    <item name="textview_id" type="id" />
+    <item name="recycler_view" type="id" />
+    <item name="displaynik" type="id" />
+    <item name="displaypassword" type="id" />
+    <item name="etNik" type="id" />
+    <item name="etPassword" type="id" />
+    <item name="Nik" type="id" />
+    <item name="Password" type="id" />
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Absensi</string>
+        <string-array name="keterangan_array">
+            <item>Hadir</item>
+            <item>Perjalanan Dinas</item>
+            <item>Tidak Hadir</item>
+        </string-array>
+</resources>
